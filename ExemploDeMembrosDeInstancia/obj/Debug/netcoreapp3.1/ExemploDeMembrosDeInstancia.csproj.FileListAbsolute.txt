@@ -1,0 +1,13 @@
+C:\Users\Cliente ASUS\source\repos\ExemploDeMembrosDeInstancia\ExemploDeMembrosDeInstancia\obj\Debug\netcoreapp3.1\ExemploDeMembrosDeInstancia.csprojAssemblyReference.cache
+C:\Users\Cliente ASUS\source\repos\ExemploDeMembrosDeInstancia\ExemploDeMembrosDeInstancia\obj\Debug\netcoreapp3.1\ExemploDeMembrosDeInstancia.AssemblyInfoInputs.cache
+C:\Users\Cliente ASUS\source\repos\ExemploDeMembrosDeInstancia\ExemploDeMembrosDeInstancia\obj\Debug\netcoreapp3.1\ExemploDeMembrosDeInstancia.AssemblyInfo.cs
+C:\Users\Cliente ASUS\source\repos\ExemploDeMembrosDeInstancia\ExemploDeMembrosDeInstancia\obj\Debug\netcoreapp3.1\ExemploDeMembrosDeInstancia.csproj.CoreCompileInputs.cache
+C:\Users\Cliente ASUS\source\repos\ExemploDeMembrosDeInstancia\ExemploDeMembrosDeInstancia\bin\Debug\netcoreapp3.1\ExemploDeMembrosDeInstancia.exe
+C:\Users\Cliente ASUS\source\repos\ExemploDeMembrosDeInstancia\ExemploDeMembrosDeInstancia\bin\Debug\netcoreapp3.1\ExemploDeMembrosDeInstancia.deps.json
+C:\Users\Cliente ASUS\source\repos\ExemploDeMembrosDeInstancia\ExemploDeMembrosDeInstancia\bin\Debug\netcoreapp3.1\ExemploDeMembrosDeInstancia.runtimeconfig.json
+C:\Users\Cliente ASUS\source\repos\ExemploDeMembrosDeInstancia\ExemploDeMembrosDeInstancia\bin\Debug\netcoreapp3.1\ExemploDeMembrosDeInstancia.runtimeconfig.dev.json
+C:\Users\Cliente ASUS\source\repos\ExemploDeMembrosDeInstancia\ExemploDeMembrosDeInstancia\bin\Debug\netcoreapp3.1\ExemploDeMembrosDeInstancia.dll
+C:\Users\Cliente ASUS\source\repos\ExemploDeMembrosDeInstancia\ExemploDeMembrosDeInstancia\bin\Debug\netcoreapp3.1\ExemploDeMembrosDeInstancia.pdb
+C:\Users\Cliente ASUS\source\repos\ExemploDeMembrosDeInstancia\ExemploDeMembrosDeInstancia\obj\Debug\netcoreapp3.1\ExemploDeMembrosDeInstancia.dll
+C:\Users\Cliente ASUS\source\repos\ExemploDeMembrosDeInstancia\ExemploDeMembrosDeInstancia\obj\Debug\netcoreapp3.1\ExemploDeMembrosDeInstancia.pdb
+C:\Users\Cliente ASUS\source\repos\ExemploDeMembrosDeInstancia\ExemploDeMembrosDeInstancia\obj\Debug\netcoreapp3.1\ExemploDeMembrosDeInstancia.genruntimeconfig.cache
